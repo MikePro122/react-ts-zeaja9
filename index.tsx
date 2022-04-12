@@ -17,7 +17,7 @@ const App = () => {
 
   const renderError = () => (
     <p style={{ paddingLeft: 16, color: '#d8000c' }}>
-      {'Unexpected error'}
+      {'Unexpected error - refresh'}
       <a
         href="#"
         style={{ marginLeft: 12 }}
